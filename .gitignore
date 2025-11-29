@@ -207,7 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 # Ignore dataset and results for now
-runs
+# runs
 datasets
 test_results
 validation_results
