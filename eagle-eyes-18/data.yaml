@@ -1,0 +1,15 @@
+names:
+- backgroundclutter
+- incorrect qblock
+- qblock
+- smallqblock
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: eagle-eyes-tbhgj
+  url: https://universe.roboflow.com/nissha-medical/eagle-eyes-tbhgj/dataset/18
+  version: 18
+  workspace: nissha-medical
+test: ../test/images
+train: ../train/images
+val: ../valid/images
