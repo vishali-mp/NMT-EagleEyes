@@ -70,7 +70,7 @@ The pipeline outputs several informative visualizations (in Cell 6) to diagnose 
     **Dimensional Drift Charts**: Histograms showing the distribution of Width_in and Height_in for 'GOOD' vs. 'NOT_GOOD' images to diagnose shrinkage or expansion issues.
     **Color Fading Charts**: Histograms and 3D scatter plots showing the color space ($\text{R}, \text{G}, \text{B}$ and $\Delta E$) to visualize how faded blocks drift away from the baseline color cluster.
     **Control Charts (PdM)**: Time-series plots  in Cell 7 that track key performance indicators (Avg_Width, Max_Brightness) against their respective Warning and Failure limits to predict machine wear.
-## 👩‍💻Steps to run the pipeline
+## 👩‍💻Steps to run the pipeline 
     1. Open the Notebook: Upload and open the eagle_eyes_train.ipynb file in Google Colab.
 
     2. Configure: In Cell 1, set your KNOWN_REFERENCE_WIDTH_INCHES (for accurate scaling) and tune the PDM/QC thresholds.
