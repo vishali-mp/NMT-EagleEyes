@@ -5,7 +5,7 @@ A Computer Vision & Predictive Maintenance pipeline designed to detect, measure,
 # 📖 The Story & Problem Statement
 In the high-stakes world of industrial printing, specifically for casino TITO (Ticket-In, Ticket-Out) vouchers - precision is non-negotiable.
 
-![Project Screenshot](./images/nissha_process.jpg)
+![Project Screenshot](./images/nissha_process.png)
 
 **The Challenge**
 The printing process relies on "Q-blocks" (small black registration marks) printed on the back of every ticket. These blocks tell the slot machines exactly where to cut and read the ticket.
