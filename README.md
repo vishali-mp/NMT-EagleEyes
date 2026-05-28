@@ -1,4 +1,4 @@
-# Project BlockBusters 👁️‍🗨️: Vision based predictive quality control in high-speed manufacturing
+# Project Eagle Eyes 👁️‍🗨️: Vision based predictive quality control in high-speed manufacturing
 
 A Computer Vision & Predictive Maintenance pipeline designed to detect, measure, and predict manufacturing defects in high-speed printing environments.
 
